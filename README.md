@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Farid aka iGolchin
-- 👀 I’m interested in SysAdmin, Philosophy, Privacy and Development
+- 👀 I’m interested in Blockchain, SysAdmin, Philosophy, Privacy, and Development
 - 🌱 I’m currently learning DevOps and SRE
 - 📫 reach me at me@gln.pw
 <!--- - 💞️ I’m looking to collaborate on ... --->
