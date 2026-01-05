@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Farid aka iGolchin
-- 👀 I’m interested in Blockchain, SysAdmin, Philosophy, Privacy, and Development
-- 🌱 I’m currently learning DevOps and SRE
-- 📫 reach me at me@farid.tr
+- 👀 I’m interested in Ai-as-a-tool, Philosophy, Privacy, and Development
+- 🌱 I’m currently learning SRE
+- 📫 reach me at me@farid.ch
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 <!---
