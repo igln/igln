@@ -1,10 +1,25 @@
-- 👋 Hi, I’m Farid aka iGolchin
-- 👀 I’m interested in Ai-as-a-tool, Philosophy, Privacy, and Development
-- 🌱 I’m currently learning SRE
-- 📫 reach me at me@farid.ch
-<!--- - 💞️ I’m looking to collaborate on ... --->
+# 👋 Hi, I'm Farid aka iGolchin
 
-<!---
-igln/igln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Senior Developer & DevOps Engineer**
+
+## About Me
+
+- 🌱 **Learning:** Site Reliability Engineering (SRE)
+- 👀 **Interests:** AI-as-a-tool, Philosophy, Privacy, Security, Networking, Data
+
+## Tech Stack
+
+**Languages:** PHP, JavaScript, Bash, Python, Swift
+
+## Connect
+
+[![Website](https://img.shields.io/badge/Website-farid.sh-blue?style=flat-square)](https://farid.sh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-igolchin-0077B5?style=flat-square&logo=linkedin)](https://tr.linkedin.com/in/igolchin)
+[![Telegram](https://img.shields.io/badge/Telegram-@iigln-26A5E4?style=flat-square&logo=telegram)](https://t.me/iigln)
+[![GitLab](https://img.shields.io/badge/GitLab-igln-FC6D26?style=flat-square&logo=gitlab)](https://gitlab.com/igln)
+
+📫 **Email:** me@farid.ch ([PGP Key](https://farid.ch))
+
+---
+
+<a href="https://buymeacoffee.com/igln" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40"></a>
