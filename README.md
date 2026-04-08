@@ -18,7 +18,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@iigln-26A5E4?style=flat-square&logo=telegram)](https://t.me/iigln)
 [![GitLab](https://img.shields.io/badge/GitLab-igln-FC6D26?style=flat-square&logo=gitlab)](https://gitlab.com/igln)
 
-📫 **Email:** me@farid.ch ([PGP Key](https://farid.ch))
+📫 **Email:** farid@golchin.me
 
 ---
 
